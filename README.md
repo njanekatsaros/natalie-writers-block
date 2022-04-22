@@ -1,4 +1,4 @@
-# natalie-writers-block
+# How To
 Tips for getting over writers block
 ---------------------------------
 
