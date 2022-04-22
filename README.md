@@ -1,5 +1,5 @@
-# <h1>How To...</h1>
-# <h2>Get over writers block!</h2>
+# How To...
+# Get over writers block!
 
 <h3>Put yourself in a mood to write by...</h3>
 
